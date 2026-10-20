@@ -1,0 +1,106 @@
+site_name: RC Story Wiki
+site_description: The official lore wiki of the RC Story Cinematic Universe — characters, rigs, units, locations and phenomena.
+site_url: https://wiki.rcstoryshow.com/
+site_author: House Fluchel Studios
+repo_url: https://github.com/fgfluchel/rcstory-wiki
+repo_name: rcstory-wiki
+edit_uri: edit/main/docs/
+copyright: >
+  © 2026 House Fluchel Studios LLC · <a href="https://rcstoryshow.com">rcstoryshow.com</a><br>
+  As an Amazon Associate, RC Story earns from qualifying purchases.
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle: {icon: material/weather-sunny, name: Switch to light mode}
+    - scheme: default
+      primary: deep orange
+      accent: amber
+      toggle: {icon: material/weather-night, name: Switch to dark mode}
+  icon:
+    logo: material/excavator
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - toc.follow
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc: {permalink: true}
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - {icon: fontawesome/brands/youtube, link: "https://www.youtube.com/@RCStoryOfficial"}
+    - {icon: fontawesome/brands/instagram, link: "https://www.instagram.com/rcstoryofficial/"}
+    - {icon: fontawesome/brands/tiktok, link: "https://www.tiktok.com/@housefluchelmechbay"}
+    - {icon: fontawesome/brands/facebook, link: "https://www.facebook.com/916366408234846"}
+    - {icon: fontawesome/solid/store, link: "https://www.ebay.com/str/rcstorydirect", name: RC Story Direct on eBay}
+
+nav:
+  - Home: index.md
+  - Characters:
+      - characters/index.md
+      - Aurek: characters/aurek.md
+      - Björn Stormweld: characters/bjorn-stormweld.md
+      - Wolfslayer: characters/wolfslayer.md
+      - Konk: characters/konk.md
+      - K-Tool: characters/k-tool.md
+      - Vantor & Solance: characters/vantor-and-solance.md
+      - Ole Red: characters/ole-red.md
+      - Hulk: characters/hulk.md
+      - Halden Cross: characters/halden-cross.md
+      - HOTEL-1: characters/hotel-1.md
+      - The F1 Grid: characters/f1-grid.md
+  - Rigs: rigs.md
+  - Units & Factions:
+      - units/index.md
+      - RMT Strategic Council: units/rmt-strategic-council.md
+      - Aegis Command Group: units/aegis-command-group.md
+      - CIOD Field Engineering Corps: units/ciod-field-engineering-corps.md
+      - 17th IEG: units/17th-ieg.md
+      - RRGC: units/rrgc.md
+      - Assimilators: units/assimilators.md
+      - Quantum Heretics: units/quantum-heretics.md
+  - Locations:
+      - locations/index.md
+      - Mount Titan: locations/mount-titan.md
+      - TitanForge: locations/titanforge.md
+      - The Hive: locations/the-hive.md
+      - The SPA: locations/the-spa.md
+      - The Castle: locations/the-castle.md
+      - Slice 10904: locations/slice-10904.md
+      - Wendaska: locations/wendaska.md
+      - DNA Farm: locations/dna-farm.md
+  - Phenomena:
+      - phenomena/index.md
+      - Project H: phenomena/project-h.md
+      - Rift Zones: phenomena/rift-zones.md
+  - Music:
+      - music/index.md
+  - Shop the Rigs: shop.md
+  - About this Wiki: about.md
