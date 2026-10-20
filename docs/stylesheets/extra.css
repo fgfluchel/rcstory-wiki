@@ -1,0 +1,10 @@
+.infobox { float: right; width: 300px; margin: 0 0 1em 1.5em; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 6px; font-size: .75rem; }
+.infobox table { display: table; width: 100%; margin: 0; }
+.infobox th { width: 40%; }
+@media (max-width: 760px) { .infobox { float: none; width: 100%; margin: 0 0 1em 0; } }
+.status { display: inline-block; padding: .1em .6em; border-radius: 1em; font-size: .7rem; font-weight: 700; }
+.status.canon { background: #2e7d32; color: #fff; }
+.status.wip { background: #f9a825; color: #000; }
+.infobox thead { display: none; }
+.infobox td, .infobox th { padding: .4em .8em !important; }
+.md-typeset .infobox table:not([class]) { border: 0; }
