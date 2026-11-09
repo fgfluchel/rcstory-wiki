@@ -13,5 +13,6 @@ Every character in the RCSU is played by a real RC vehicle. Each one is torn dow
 | [Vantor](characters/vantor-and-solance.md) | FJ Cruiser (blue) | Crawler |
 | [Halden Cross](characters/halden-cross.md) | Gelände II FJ40 (red) | Crawler |
 | [HOTEL-1](characters/hotel-1.md) | FMS Hummer (yellow) | Off-road truck |
+| [Jonathan & Jordan Brenthel](characters/brenthel-brothers.md) | Losi 1/6 Super Baja Rey Brenthel 8S (#27, yellow) | Desert truck |
 
 Want one for your own workbench? See [Shop the Rigs](shop.md).
