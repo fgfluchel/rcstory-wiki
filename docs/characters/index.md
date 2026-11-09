@@ -10,6 +10,7 @@ The cast of the RC Story Cinematic Universe, listed alphabetically.
 | [Halden Cross](halden-cross.md) | — | Red Gelände II FJ40 | |
 | [HOTEL-1](hotel-1.md) | — | Yellow FMS Hummer | |
 | [Hulk](hulk.md) | Civilian | Rocky Recon · Rock Racer | |
+| [Jonathan & Jordan Brenthel](brenthel-brothers.md) | — | Losi Super Baja Rey (#27, yellow) | Brothers; two drivers, one truck |
 | [K-Tool](k-tool.md) | Military | Huina 1554 bulldozer | Project H candidate |
 | [Konk](konk.md) | Civilian | Quantum Matter Resonance Mixer | ID MX-1584; Project H Gifted Variant |
 | [Ole Red](ole-red.md) | Civilian | RGT 86181 Crusher | |
