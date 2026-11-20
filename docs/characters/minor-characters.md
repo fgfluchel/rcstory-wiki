@@ -16,7 +16,7 @@ Characters who have been named in the story but don't have a full dossier yet.
 | Small Arty | Compact artillery transport | [Wolfslayer](wolfslayer.md) | |
 | Little Yeungling Wheel Loader | Rookie loader | Halden Cross's convoy | |
 | Yiling Dumptruck | Rookie hauler | Halden Cross's convoy | |
-| Volvo Arty Dumptruck | Volvo articulated dump truck | B-36-1 ([Mûmak](mumak.md)) | May be the same truck as [Oliphaunt](oliphaunt.md) |
+| Volvo Arty Dumptruck | Volvo articulated dump truck | B-36-1 ([Mûmak](mumak.md)) | This is [Oliphaunt](oliphaunt.md) |
 | Yigong Bulldozer | Compact terrain unit | B-36-3 | Rides with [Huxley](huxley.md) |
 
 ## Recon teams

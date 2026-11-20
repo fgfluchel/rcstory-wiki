@@ -42,10 +42,11 @@ Every character in the RCSU is played by a real RC vehicle. Each one is torn dow
 | [Solance](characters/vantor-and-solance.md) | RGT EX86120 Desert Fox (yellow) | Crawler |
 | [Violent](characters/violent.md) | Hummer (tan) | Off-road truck |
 
-## Armor, aircraft & track
+## Armor, aircraft, track & robots
 
 | Character | RC model | Type |
 |---|---|---|
+| [K2](characters/k2.md) | Segway robotic lawnmower | Robot mower |
 | [Leopard Actual](characters/leopard-actual.md) | Leopard 2A6 | Main battle tank |
 | [Ripsaw](characters/ripsaw.md) | Tracked tank platform | Tank |
 | [Sherman Actual](characters/sherman-actual.md) | M4A3 Sherman | Tank |

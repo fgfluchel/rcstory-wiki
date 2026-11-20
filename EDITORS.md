@@ -14,6 +14,7 @@ Open items found while seeding the wiki (Oct 2026). Resolve, then update the pag
 
 8. **Earthshaker** — the Konk page used to say Konk evolves into Earthshaker. Now K-Tool does (Earthshaker is K-Tool's hydraulic form). Confirm.
 9. **Factions** — Vantor & Solance are listed as Joint here; other notes say Vantor is Unknown and Solance is Civilian. Konk is listed Civilian (civilian-attached asset).
-10. **Held back** — not published until confirmed: K2, Forge Kerrigan, Johnny Brenthel (vs the Brenthel brothers page), and the cats.
-11. **Open questions** — Is the Volvo Arty Dumptruck the same truck as Oliphaunt? Is Leopard Actual RMT-Aegis's or the Coalition's? Is Brady one Bronco across both roles? Which rig is the "1553 articulated dump truck" in the photo folder?
+10. **Held back** — not published until confirmed: Forge Kerrigan, Johnny Brenthel (vs the Brenthel brothers page), and the cats.
+11. **Open questions** — Is Leopard Actual RMT-Aegis's or the Coalition's? Is Brady one Bronco across both roles?
 12. **No page yet** — RMT-Aegis, Iron Scorpions, Empress Transport Brigade, Valkyrie Detachment, Crushers 3rd Rift Recon Team and Eastern European Coalition need unit pages.
+13. **Resolved** — K2 is the Segway robotic lawnmower. Oliphaunt is the Volvo articulated dump truck (also the "Volvo Arty Dumptruck" cargo).
