@@ -16,9 +16,10 @@ tags:
 
 </div>
 
-The **RRGC** is a Joint faction.
+The **RRGC** (Rapid Response Global Cavalry) is a Joint faction. Its scouts form the Twin Spear Doctrine: Vantor breaks trail, Solance follows.
 
 ## Known members
 
 - [Vantor](../characters/vantor-and-solance.md)
 - [Solance](../characters/vantor-and-solance.md)
+- [Sleipnir](../characters/sleipnir.md)
