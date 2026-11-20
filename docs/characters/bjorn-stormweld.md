@@ -46,6 +46,11 @@ Known as the "quiet storm." Reserved, observant and intensely focused, he rarely
 
 All information beyond this page is restricted at TitanForge Protocol Level 7.
 
+## Gallery
+
+![Björn's Huina dump truck on a white studio backdrop](../assets/rigs/bjorn-dump-truck-studio.jpg){ loading=lazy width="480" }
+![Björn's dump truck on the construction site set, with a loader behind](../assets/rigs/bjorn-dump-truck-site.jpg){ loading=lazy width="360" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->

@@ -41,6 +41,11 @@ The grey Scania needed a name colder and more tactical than the rest of the conv
 - [Mûmak](mumak.md), his off-road counterpart
 - [Pug](pug.md), a separate Scania in the Empress Transport Brigade
 
+## Gallery
+
+![Wolfslayer's grey Scania 770S cab on a white studio backdrop](../assets/rigs/wolfslayer-scania-studio.jpg){ loading=lazy width="480" }
+![Wolfslayer's Scania with its roof lights on against an orange glow](../assets/rigs/wolfslayer-scania-glow.jpg){ loading=lazy width="480" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->

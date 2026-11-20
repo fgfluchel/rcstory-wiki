@@ -35,6 +35,11 @@ Hulk grew up in Ole Red's shadow, learning the grit he'd need to survive, but he
 
 Wise, gritty, powerful and temperamental. He's quick to flare when the squad is threatened, and he has deep terrain intuition. When he growls, the squad moves.
 
+## Gallery
+
+![Hulk's green Crusher on the gravel trail set, with an onboard camera mounted](../assets/rigs/hulk-crusher-trail.jpg){ loading=lazy width="480" }
+![Close-up of Hulk's metallic green body panel](../assets/rigs/hulk-crusher-detail.jpg){ loading=lazy width="360" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->

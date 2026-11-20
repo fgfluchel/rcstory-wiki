@@ -53,6 +53,11 @@ Aurek's colour scheme is slate yellow, charcoal grey and burnished steel, matchi
 
 Aurek's rig is also available directly from [RC Story Direct](https://www.ebay.com/str/rcstorydirect).
 
+## Gallery
+
+![Aurek's Huina 1583 front wheel loader on the construction site set](../assets/rigs/aurek-loader-site.jpg){ loading=lazy width="480" }
+![Aurek's loader heading into the mine tunnel set](../assets/rigs/aurek-loader-tunnel.jpg){ loading=lazy width="480" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->
