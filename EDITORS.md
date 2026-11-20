@@ -12,7 +12,7 @@ Open items found while seeding the wiki (Oct 2026). Resolve, then update the pag
 
 ## Character sync, Nov 2026
 
-8. **Earthshaker** — the Konk page used to say Konk evolves into Earthshaker. Now K-Tool does (Earthshaker is K-Tool's hydraulic form). Confirm.
+8. **Earthshaker** — resolved: Earthshaker is K-Tool's hydraulic form (not Konk's).
 9. **Factions** — Vantor & Solance are listed as Joint here; other notes say Vantor is Unknown and Solance is Civilian. Konk is listed Civilian (civilian-attached asset).
 10. **Held back** — not published until confirmed: Forge Kerrigan, Johnny Brenthel (vs the Brenthel brothers page), and the cats.
 11. **Open questions** — Is Leopard Actual RMT-Aegis's or the Coalition's? Is Brady one Bronco across both roles?
