@@ -29,6 +29,11 @@ In the Episode 01 loading manifest he appears as the "Volvo Arty Dumptruck" on B
 - [Mûmak](mumak.md), his hauler
 - [Huxley](huxley.md), fellow evaluation candidate
 
+## Gallery
+
+![Oliphaunt's articulated dump truck on a white studio backdrop](../assets/rigs/oliphaunt-dump-truck-studio.jpg){ loading=lazy width="480" }
+![Close-up of Oliphaunt's dump body and lift ram](../assets/rigs/oliphaunt-dump-truck-detail.jpg){ loading=lazy width="360" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->
