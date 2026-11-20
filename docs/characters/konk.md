@@ -28,6 +28,11 @@ tags:
 
 Konk is destined to evolve into **Earthshaker**.
 
+## Gallery
+
+![Konk's Huina concrete mixer rolling into a lit mine tunnel](../assets/rigs/konk-mixer-tunnel.jpg){ loading=lazy width="480" }
+![Konk's Huina mixer cab, straight-on studio shot](../assets/rigs/konk-mixer-front.jpg){ loading=lazy width="360" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->
