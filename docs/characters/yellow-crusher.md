@@ -23,6 +23,11 @@ tags:
 
 His personality and full identity haven't been written yet.
 
+## Gallery
+
+![The Yellow Crusher climbing the rock garden set](../assets/rigs/yellow-crusher-rocks.jpg){ loading=lazy width="480" }
+![The Yellow Crusher pushing through smoke on the rocks](../assets/rigs/yellow-crusher-smoke.jpg){ loading=lazy width="360" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->
