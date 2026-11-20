@@ -19,6 +19,11 @@ tags:
 
 **Wolfslayer** is a grey Scania 770S heavy hauler, and the one true Wolfslayer. Its allegiance is unknown.
 
+## Gallery
+
+![Wolfslayer's grey Scania 770S cab on a white studio backdrop](../assets/rigs/wolfslayer-scania-studio.jpg){ loading=lazy width="480" }
+![Wolfslayer's Scania with its roof lights on against an orange glow](../assets/rigs/wolfslayer-scania-glow.jpg){ loading=lazy width="480" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->

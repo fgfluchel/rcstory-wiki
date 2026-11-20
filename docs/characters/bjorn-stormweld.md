@@ -25,6 +25,11 @@ tags:
 !!! note "Not to be confused with Wolfslayer"
     Björn does **not** carry the callsign "Wolfslayer." That name belongs only to [Wolfslayer](wolfslayer.md), the grey Scania 770S.
 
+## Gallery
+
+![Björn's Huina dump truck on a white studio backdrop](../assets/rigs/bjorn-dump-truck-studio.jpg){ loading=lazy width="480" }
+![Björn's dump truck on the construction site set, with a loader behind](../assets/rigs/bjorn-dump-truck-site.jpg){ loading=lazy width="360" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->

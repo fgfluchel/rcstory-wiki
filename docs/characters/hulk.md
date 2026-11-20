@@ -19,6 +19,11 @@ tags:
 
 **Hulk** is a civilian off-roader who runs as both a Rocky Recon and a Rock Racer.
 
+## Gallery
+
+![Hulk's green Crusher on the gravel trail set, with an onboard camera mounted](../assets/rigs/hulk-crusher-trail.jpg){ loading=lazy width="480" }
+![Close-up of Hulk's metallic green body panel](../assets/rigs/hulk-crusher-detail.jpg){ loading=lazy width="360" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->
