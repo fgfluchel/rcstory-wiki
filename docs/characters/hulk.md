@@ -2,6 +2,7 @@
 tags:
   - Character
   - Civilian
+  - Rocky Recon
 ---
 
 # Hulk
@@ -12,12 +13,27 @@ tags:
 
 | | |
 |---|---|
+| Nickname | The Green Crusher |
+| Rank | Master Sergeant |
+| Role | Long-range terrain scout |
+| Unit | Crushers 3rd Rift Recon Team |
 | Affiliation | Civilian |
-| Roles | Rocky Recon · Rock Racer |
+| Rig | RGT EX86181 Crusher (Rock Racer) |
+| Brother | [Ole Red](ole-red.md) |
 
 </div>
 
-**Hulk** is a civilian off-roader who runs as both a Rocky Recon and a Rock Racer.
+**Hulk**, "the Green Crusher," is a Master Sergeant and long-range terrain scout, and a founding member of the Rocky Recon squad, the Crushers 3rd Rift Recon Team. He is [Ole Red](ole-red.md)'s younger brother.
+
+He is the quiet sentinel who spots trouble long before it reaches the squad, scouting choke points and rocky passes on the outer fringes while the construction crew works.
+
+## Origin
+
+Hulk grew up in Ole Red's shadow, learning the grit he'd need to survive, but he forged his own path toward the outer ridgelines early and came to specialize in the outer perimeter.
+
+## Personality
+
+Wise, gritty, powerful and temperamental. He's quick to flare when the squad is threatened, and he has deep terrain intuition. When he growls, the squad moves.
 
 ## Gallery
 
