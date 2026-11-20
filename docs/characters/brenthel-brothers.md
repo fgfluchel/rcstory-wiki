@@ -27,6 +27,11 @@ tags:
 - **Jordan Brenthel:** Jonathan's brother, the truck's second driver
 - **Rig:** [Losi Super Baja Rey](https://rcstoryshow.com/f/losi-super-baja-rey---my-favorite-baja-truck-so-far), a big, heavy 1/6 scale 8S desert truck
 
+## Gallery
+
+![The yellow #27 Brenthel Losi Super Baja Rey, front view with light bars on](../assets/rigs/brenthel-baja-rey-front.jpg){ loading=lazy width="420" }
+![The #27 Brenthel Losi Super Baja Rey, side view in haze](../assets/rigs/brenthel-baja-rey-side.jpg){ loading=lazy width="480" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->
