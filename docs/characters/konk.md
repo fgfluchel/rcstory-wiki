@@ -49,6 +49,11 @@ Stoic, unreadable and quietly imposing. He holds up under intense scrutiny.
 
 Konk was first introduced under the ID 1574CEM. MX-1584 replaces it as his current, correct ID. He has a tribute song, "Konk."
 
+## Gallery
+
+![Konk's Huina concrete mixer rolling into a lit mine tunnel](../assets/rigs/konk-mixer-tunnel.jpg){ loading=lazy width="480" }
+![Konk's Huina mixer cab, straight-on studio shot](../assets/rigs/konk-mixer-front.jpg){ loading=lazy width="360" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->

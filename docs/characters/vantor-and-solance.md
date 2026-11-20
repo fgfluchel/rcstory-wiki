@@ -44,6 +44,11 @@ He is warm, steady and team-first, and unshakably brave. He will charge into dan
 - [Sleipnir](sleipnir.md), also of the Cavalry
 - [Base Director](base-director.md), who drives the same blue Desert Fox as Vantor
 
+## Gallery
+
+![Vantor's blue RGT Desert Fox crawling over rocks in front of a mountain backdrop](../assets/rigs/vantor-desert-fox-rocks.jpg){ loading=lazy width="480" }
+![Vantor's Desert Fox nosing into a misty rock arch](../assets/rigs/vantor-desert-fox-mountain.jpg){ loading=lazy width="480" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->
