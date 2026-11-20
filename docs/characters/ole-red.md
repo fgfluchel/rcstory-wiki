@@ -26,6 +26,7 @@ tags:
 
 ![Ole Red's red RGT Crusher crawler, front three-quarter studio shot](../assets/rigs/ole-red-crusher-studio.jpg){ loading=lazy width="480" }
 ![Close-up of Ole Red's front tire, chrome stack and Crusher badge](../assets/rigs/ole-red-crusher-detail.jpg){ loading=lazy width="360" }
+![Ole Red's red Crusher parked in a clover field](../assets/rigs/ole-red-crusher-clover.jpg){ loading=lazy width="480" }
 
 ## Get the rig
 

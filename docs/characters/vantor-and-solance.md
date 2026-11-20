@@ -48,6 +48,7 @@ He is warm, steady and team-first, and unshakably brave. He will charge into dan
 
 ![Vantor's blue RGT Desert Fox crawling over rocks in front of a mountain backdrop](../assets/rigs/vantor-desert-fox-rocks.jpg){ loading=lazy width="480" }
 ![Vantor's Desert Fox nosing into a misty rock arch](../assets/rigs/vantor-desert-fox-mountain.jpg){ loading=lazy width="480" }
+![Vantor's Desert Fox crawling over rocks in the woods](../assets/rigs/vantor-desert-fox-woods.jpg){ loading=lazy width="480" }
 
 ## Get the rig
 
