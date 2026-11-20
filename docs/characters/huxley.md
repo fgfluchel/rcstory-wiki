@@ -44,6 +44,11 @@ Beneath the calm, high-achieving exterior, Huxley is uncertain. He replays his o
 - [Oliphaunt](oliphaunt.md), fellow evaluation candidate
 - The Iron Scorpions, K-Tool's rookie squad in the 17th IEG
 
+## Gallery
+
+![Huxley's Huina 1592 excavator on a dark studio backdrop](../assets/rigs/huxley-excavator-studio.jpg){ loading=lazy width="360" }
+![Huxley's excavator rolling into the mine tunnel set](../assets/rigs/huxley-excavator-tunnel.jpg){ loading=lazy width="480" }
+
 ## Get the rig
 
 <!-- AFFILIATE: add the Amazon link here as https://www.amazon.com/dp/ASIN?tag=frederickgeor-20 -->
