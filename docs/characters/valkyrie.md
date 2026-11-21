@@ -14,13 +14,13 @@ tags:
 | | |
 |---|---|
 | Role | Pilot and squad leader |
-| Unit | Valkyrie Detachment |
+| Unit | [Valkyrie Detachment](../units/valkyrie-detachment.md) |
 | Affiliation | Military |
 | Rig | C184 MD500 micro heli (about 1:32 scale) |
 
 </div>
 
-**Valkyrie** is the pilot and squad leader of the Valkyrie Detachment, flying aerial overwatch and coordination for ground stabilization and extraction. She is renowned for her calm under pressure and has an almost mythic, guardian-angel presence over the crews below, including [Aurek](aurek.md)'s.
+**Valkyrie** is the pilot and squad leader of the [Valkyrie Detachment](../units/valkyrie-detachment.md), flying aerial overwatch and coordination for ground stabilization and extraction. She is renowned for her calm under pressure and has an almost mythic, guardian-angel presence over the crews below, including [Aurek](aurek.md)'s.
 
 ## The rig
 

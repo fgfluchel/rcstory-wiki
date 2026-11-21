@@ -20,7 +20,7 @@ tags:
 
 </div>
 
-**Oliphaunt** ("OH-lih-font") is the largest rookie in the Mulch-Bed Evaluation and the heaviest payload [Mûmak](mumak.md) carries. He is colossal, golden and untested, and he has no idea of the **Dragonstone** destiny said to be buried beneath the rocks he'll one day help move.
+**Oliphaunt** ("OH-lih-font") is the largest rookie in the [Mulch-Bed Evaluation](../phenomena/mulch-bed-evaluation.md) and the heaviest payload [Mûmak](mumak.md) carries. He is colossal, golden and untested, and he has no idea of the [**Dragonstone**](../phenomena/dragonstone.md) destiny said to be buried beneath the rocks he'll one day help move.
 
 In the Episode 01 loading manifest he appears as the "Volvo Arty Dumptruck" on B-36-1.
 

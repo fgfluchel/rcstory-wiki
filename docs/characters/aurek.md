@@ -22,7 +22,7 @@ tags:
 
 </div>
 
-**Aurek** is a sergeant of the [17th IEG](../units/17th-ieg.md) and a candidate in [Project H](../phenomena/project-h.md). He is an old-world, quietly powerful foundation specialist ("the earth listens when he moves") and answers to the callsign **"Stonehand."**
+**Aurek** ("OR-ek") is a sergeant of the [17th IEG](../units/17th-ieg.md) and a candidate in [Project H](../phenomena/project-h.md). He is an old-world, quietly powerful foundation specialist ("the earth listens when he moves") and answers to the callsign **"Stonehand."**
 
 ## Origin
 
@@ -38,7 +38,15 @@ His flaws: he quietly overloads himself rather than asking for help, he's cautio
 
 ## Role
 
-Aurek is a field loader and the lead of the Foundation Section. He is not a commander.
+Aurek is a field loader and the lead of the Foundation Section. He is not a commander. He also serves as the foundation specialist in the [Valkyrie Detachment](../units/valkyrie-detachment.md), and he rode with the [Iron Scorpions](../units/iron-scorpions.md) in the [Shadowrift Barricade Incident](../phenomena/shadowrift-barricade-incident.md).
+
+He's often described as a blue-collar paladin: lawful, steady and good. His file marks him as a "True Foundation Candidate."
+
+## Markings
+
+- An AUREK-1583 side emblem
+- A red, black and steel heritage stripe
+- A hidden "H-CANDIDATE" stencil
 
 ## Connections
 

@@ -21,7 +21,7 @@ tags:
 
 **Wolfslayer** is a grey Scania 770S heavy hauler, and the one true Wolfslayer. Its allegiance is unknown.
 
-He is the convoy's lead heavy hauler. He isn't a commander. He is the "alpha truck" that sets the pace and carries the heaviest, most dangerous or most sensitive loads, including [Ripsaw](ripsaw.md) and Small Arty. [Brady](brady.md) calls him "the ghost truck," because he seems to appear out of nowhere.
+He was forged in the extreme outer slices, and he runs first in, last out. He is the convoy's lead heavy hauler. He isn't a commander. He is the "alpha truck" that sets the pace and carries the heaviest, most dangerous or most sensitive loads, including [Ripsaw](ripsaw.md) and Small Arty. [Brady](brady.md) calls him "the ghost truck," because he seems to appear out of nowhere.
 
 ## Personality
 
