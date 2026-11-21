@@ -14,7 +14,7 @@ tags:
 | | |
 |---|---|
 | ID | 1501G1 |
-| Unit | Empress Transport Brigade |
+| Unit | [Empress Transport Brigade](../units/empress-transport-brigade.md) |
 | Affiliation | Civilian |
 | Rig | Scania 730 V8 + Huina tri-axle lowboy trailer |
 | Colour | Gunmetal grey with the Empress crest |

@@ -23,7 +23,7 @@ tags:
 
 </div>
 
-**Hulk**, "the Green Crusher," is a Master Sergeant and long-range terrain scout, and a founding member of the Rocky Recon squad, the Crushers 3rd Rift Recon Team. He is [Ole Red](ole-red.md)'s younger brother.
+**Hulk**, "the Green Crusher," is a Master Sergeant and long-range terrain scout, and a founding member of the Rocky Recon squad, the [Crushers 3rd Rift Recon Team](../units/crushers-3rd-rift-recon-team.md). He is [Ole Red](ole-red.md)'s younger brother.
 
 He is the quiet sentinel who spots trouble long before it reaches the squad, scouting choke points and rocky passes on the outer fringes while the construction crew works.
 

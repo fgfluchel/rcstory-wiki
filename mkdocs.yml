@@ -107,12 +107,27 @@ nav:
   - Rigs: rigs.md
   - Units & Factions:
       - units/index.md
+      - Space Command: units/space-command.md
       - RMT Strategic Council: units/rmt-strategic-council.md
       - Aegis Command Group: units/aegis-command-group.md
+      - CIOD: units/ciod.md
       - CIOD Field Engineering Corps: units/ciod-field-engineering-corps.md
       - 17th IEG: units/17th-ieg.md
+      - RMT-Aegis: units/rmt-aegis.md
+      - Valkyrie Detachment: units/valkyrie-detachment.md
+      - Iron Scorpions: units/iron-scorpions.md
+      - 3ETB Iron Wolves: units/3etb-iron-wolves.md
+      - Empress Transport Brigade: units/empress-transport-brigade.md
       - RRGC: units/rrgc.md
+      - Crushers 3rd Rift Recon Team: units/crushers-3rd-rift-recon-team.md
+      - Rocky Recon Interspatial Squad: units/rocky-recon-interspatial-squad.md
+      - Eastern European Coalition: units/eastern-european-coalition.md
+      - Aurora 16: units/aurora-16.md
+      - I.O.C. Council: units/ioc-council.md
+      - Castle Police: units/castle-police.md
+      - The Veilwardens: units/veilwardens.md
       - Assimilators: units/assimilators.md
+      - The Mechanized: units/the-mechanized.md
       - Quantum Heretics: units/quantum-heretics.md
   - Locations:
       - locations/index.md
@@ -124,10 +139,19 @@ nav:
       - Slice 10904: locations/slice-10904.md
       - Wendaska: locations/wendaska.md
       - DNA Farm: locations/dna-farm.md
+      - Plot H71744AB-2: locations/plot-h71744ab-2.md
   - Phenomena:
       - phenomena/index.md
       - Project H: phenomena/project-h.md
       - Rift Zones: phenomena/rift-zones.md
+      - The Gifted: phenomena/the-gifted.md
+      - Darkstone: phenomena/darkstone.md
+      - Dragonstone: phenomena/dragonstone.md
+      - Mulch-Bed Evaluation: phenomena/mulch-bed-evaluation.md
+      - Rift Qualified: phenomena/rift-qualified.md
+      - Hydraulic Evolution: phenomena/hydraulic-evolution.md
+      - Shadowrift Barricade Incident: phenomena/shadowrift-barricade-incident.md
+      - The Fracture: phenomena/the-fracture.md
   - Music:
       - music/index.md
   - Shop the Rigs: shop.md

@@ -21,7 +21,7 @@ tags:
 
 </div>
 
-**Hangman** (ID **1572CR1**) is the crane assigned to the Empress Transport Brigade.
+**Hangman** (ID **1572CR1**) is the crane assigned to the [Empress Transport Brigade](../units/empress-transport-brigade.md).
 
 ## The callsign
 

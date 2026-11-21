@@ -18,3 +18,18 @@ Open items found while seeding the wiki (Oct 2026). Resolve, then update the pag
 11. **Open questions** — Is Leopard Actual RMT-Aegis's or the Coalition's? Is Brady one Bronco across both roles?
 12. **No page yet** — RMT-Aegis, Iron Scorpions, Empress Transport Brigade, Valkyrie Detachment, Crushers 3rd Rift Recon Team and Eastern European Coalition need unit pages.
 13. **Resolved** — K2 is the Segway robotic lawnmower. Oliphaunt is the Volvo articulated dump truck (also the "Volvo Arty Dumptruck" cargo).
+
+## Brainstorm-doc ingest, Nov 2026
+
+Added backstory from the early brainstorm docs only where it doesn't conflict with the wiki. These conflicts were left as the wiki has them, for Frederick to rule on:
+
+14. **Iron Scorpions** — one old doc says the whole 17th IEG was renamed "The Iron Scorpions" (album naming). The wiki keeps it as the nickname of K-Tool's field crew.
+15. **17th IEG motto** — old docs say "We Hold What Others Stand On". The wiki uses "We Build Beyond" (confirmed 8/25).
+16. **Aurek's platform** — one old doc calls him an electric excavator. The wiki keeps the Huina 1583 wheel loader.
+17. **Vantor's units** — he's in the RRGC and also FJ Blue in the Rocky Recon Interspatial Squad. Dual membership, or does one win?
+18. **3ETB Iron Wolves vs the Humanitarian Logistics Detachment** — one doc treats them as the same; the wiki lists them separately.
+19. **Huxley and the EC380 arc** — an old doc mentions it without explaining it. Not added.
+20. **Valkyrie Detachment roster** — the Huina 1594 excavator, 1710 dump hauler and 1569 dozer have no names or pages yet.
+21. **Björn in the Mulch-Bed Evaluation** — the manifest lists him among those being sorted, though he reads as a veteran elsewhere.
+22. **Aurek's colours** — his accent is burnished steel; the 17th IEG's third colour is white. Minor.
+23. **Still unnamed** — Aurora 16's four members, the I.O.C. acronym, and the RRGC's crest, motto and colours.

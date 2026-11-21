@@ -15,7 +15,7 @@ tags:
 | | |
 |---|---|
 | Element | Aegis-5 Heavy Recon Element |
-| Unit | RMT-Aegis / Eastern European Coalition liaison |
+| Unit | RMT-Aegis / [Eastern European Coalition](../units/eastern-european-coalition.md) liaison |
 | Affiliation | Joint |
 | Operator | Captain Rhea Voss |
 | Rig | Leopard 2A6 MBT |
