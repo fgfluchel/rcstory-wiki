@@ -25,7 +25,7 @@ tags:
 
 ## Profile
 
-His DNA comes from an ultra-classified gene pool, so his excellence is described simply as "his nature." He holds the highest level of secret clearance that exists. Before his admission into the [17th Interspatial Engineering Group](../units/17th-ieg.md) was approved, investigators went back and interviewed every clone-mate he was cloned alongside, hunting for any behavioral or psychological flaw that might disqualify him. They found none.
+He wears a "TOP POWER" insignia. His DNA comes from an ultra-classified gene pool, so his excellence is described simply as "his nature." He holds the highest level of secret clearance that exists. Before his admission into the [17th Interspatial Engineering Group](../units/17th-ieg.md) was approved, investigators went back and interviewed every clone-mate he was cloned alongside, hunting for any behavioral or psychological flaw that might disqualify him. They found none.
 
 ## Personality
 
@@ -34,15 +34,18 @@ Beneath the calm, high-achieving exterior, Huxley is uncertain. He replays his o
 ## In the story
 
 - **Arrival at TitanForge.** Huxley's first arrival comes through [The SPA](../locations/the-spa.md) tunnel into [TitanForge](../locations/titanforge.md). He feels the weight of the ancient carved corridor and the faint hum of machinery older than his own generation, and he senses that the facility isn't just a facility. It's a threshold he is being tested against.
-- **Proving grounds.** He does early earthwork at the proving grounds alongside [K-Tool](k-tool.md).
+- **Proving grounds.** He does early earthwork at the proving grounds alongside [K-Tool](k-tool.md). In the [Mulch-Bed Evaluation](../phenomena/mulch-bed-evaluation.md) ("the Sorting," Episode 0.5) he's judged as a probe-grade precision unit.
 - **Convoy.** In the Episode 01 loading manifest he rides a B-36 hauler with the Yigong bulldozer, and he later appears on the Shadowrift Barricade convoy manifest as the "1592 Excavator — precision digger."
+
+## Evolution
+
+Huxley's planned hydraulic upgrade is an MT Model 1/14 **EC380** excavator, with yellow, white and green all considered. The EC380 variants discussed include hydraulic-grab and tiltable-bucket configurations. This may change depending on which models are available when the upgrades happen. See [Hydraulic Evolution](../phenomena/hydraulic-evolution.md).
 
 ## Connections
 
 - [K-Tool](k-tool.md), fellow rookie at the proving grounds
 - [Mûmak](mumak.md), the prime mover that hauls the rookies
 - [Oliphaunt](oliphaunt.md), fellow evaluation candidate
-- The Iron Scorpions, K-Tool's rookie squad in the 17th IEG
 
 ## Gallery
 

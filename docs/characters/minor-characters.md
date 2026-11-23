@@ -24,7 +24,7 @@ Characters who have been named in the story but don't have a full dossier yet.
 | Character | Unit | Rig | Role |
 |---|---|---|---|
 | [Yellow Crusher](yellow-crusher.md) | Crushers 3rd Rift Recon Team | Rock Racer-class crawler (Crusher platform) | Hazard-zone ops and unstable-terrain scouting, alongside [Hulk](hulk.md) and [Ole Red](ole-red.md) |
-| FJ Yellow | Rocky Recon Interspatial Squad | FJ Cruiser-class crawler | Primary point scout and light recon |
+| FJ Yellow | [Rocky Recon Interspatial Squad](../units/rocky-recon-interspatial-squad.md) | FJ Cruiser-class crawler | Primary point scout and light recon |
 
 ## Crew and cameos
 

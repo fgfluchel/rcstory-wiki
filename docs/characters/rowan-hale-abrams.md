@@ -22,7 +22,7 @@ tags:
 
 </div>
 
-**Lieutenant Colonel Rowan Hale Abrams**, callsign **"Aegis Actual,"** commands RMT-Aegis, the Recon Mobility Team of the [17th IEG](../units/17th-ieg.md). He rides into every mission in the yellow command Hummer [HOTEL-1](hotel-1.md).
+**Lieutenant Colonel Rowan Hale Abrams**, callsign **"Aegis Actual,"** commands [RMT-Aegis](../units/rmt-aegis.md), the Recon Mobility Team of the [17th IEG](../units/17th-ieg.md). He rides into every mission in the yellow command Hummer [HOTEL-1](hotel-1.md).
 
 ## Background
 

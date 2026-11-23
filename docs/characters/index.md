@@ -19,7 +19,7 @@ The cast of the RC Story Cinematic Universe, listed alphabetically. Characters w
 | [Huxley](huxley.md) | Military · Project H | Huina 1592 excavator | ID EX1592; callsign "ROOKIE" |
 | [Jonathan & Jordan Brenthel](brenthel-brothers.md) | — | Losi Super Baja Rey (#27, yellow) | Brothers; two drivers, one truck |
 | [K2](k2.md) | Civilian | Segway robotic lawnmower | The Guardian Entity |
-| [K-Tool](k-tool.md) | Military · Iron Scorpions | Huina 1554 bulldozer | Project H candidate; evolves into Earthshaker |
+| [K-Tool](k-tool.md) | Military · 17th IEG | Huina 1554 bulldozer | Project H candidate; evolves into Earthshaker |
 | [Konk](konk.md) | Civilian | Quantum Matter Resonance Mixer | ID MX-1584; Project H Gifted Variant |
 | [Leopard Actual](leopard-actual.md) | Joint · RMT-Aegis | Leopard 2A6 MBT | Aegis-5 |
 | [Mûmak](mumak.md) | Civilian · Convoy | B-36 6x6 heavy tractor | Convoy prime mover |
