@@ -10,15 +10,14 @@
 | [CIOD](ciod.md) | Military | Covert Interspatial Operations Division; houses the 17th IEG |
 | [CIOD Field Engineering Corps](ciod-field-engineering-corps.md) | Military | TitanForge infrastructure and Rift stabilization |
 
-## 17th IEG and its teams
+## 17th IEG (the Iron Scorpions) and its teams
 
 | Unit | Type | Role |
 |---|---|---|
-| [17th IEG](17th-ieg.md) | Military | "The Bedrock Division"; Aurek's unit |
+| [17th IEG](17th-ieg.md) | Military | The Iron Scorpions, "The Bedrock Division"; Aurek's unit |
 | [RMT-Aegis](rmt-aegis.md) | Military | Armored recon team led by Rowan Hale Abrams |
 | [Valkyrie Detachment](valkyrie-detachment.md) | Military | Airborne engineering, first into rift zones |
-| [Iron Scorpions](iron-scorpions.md) | Military | Nickname of K-Tool's field crew |
-| [3ETB Iron Wolves](3etb-iron-wolves.md) | Military | Armored convoy logistics |
+| [Humanitarian Logistics Detachment](humanitarian-logistics-detachment.md) | Military | The "Iron Wolves": armored convoy logistics |
 | [Empress Transport Brigade](empress-transport-brigade.md) | Civilian | Heavy-haul Scania contractors |
 
 ## Other units

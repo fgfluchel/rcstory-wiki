@@ -37,12 +37,15 @@ Beneath the calm, high-achieving exterior, Huxley is uncertain. He replays his o
 - **Proving grounds.** He does early earthwork at the proving grounds alongside [K-Tool](k-tool.md). In the [Mulch-Bed Evaluation](../phenomena/mulch-bed-evaluation.md) ("the Sorting," Episode 0.5) he's judged as a probe-grade precision unit.
 - **Convoy.** In the Episode 01 loading manifest he rides a B-36 hauler with the Yigong bulldozer, and he later appears on the Shadowrift Barricade convoy manifest as the "1592 Excavator — precision digger."
 
+## Evolution
+
+Huxley's planned hydraulic upgrade is an MT Model 1/14 **EC380** excavator, with yellow, white and green all considered. The EC380 variants discussed include hydraulic-grab and tiltable-bucket configurations. This may change depending on which models are available when the upgrades happen. See [Hydraulic Evolution](../phenomena/hydraulic-evolution.md).
+
 ## Connections
 
 - [K-Tool](k-tool.md), fellow rookie at the proving grounds
 - [Mûmak](mumak.md), the prime mover that hauls the rookies
 - [Oliphaunt](oliphaunt.md), fellow evaluation candidate
-- The [Iron Scorpions](../units/iron-scorpions.md), K-Tool's crew in the 17th IEG
 
 ## Gallery
 

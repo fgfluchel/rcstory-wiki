@@ -14,13 +14,13 @@ tags:
 |---|---|
 | Also called | Shadowrift Incident — Year +1 |
 | Where | [Plot H71744AB-2]({L}plot-h71744ab-2.md) |
-| Crew | [Iron Scorpions]({U}iron-scorpions.md) |
+| Unit | [17th IEG](../units/17th-ieg.md), the Iron Scorpions |
 
 </div>
 
 The **Shadowrift Barricade Incident** is a flash-forward, set a year ahead of the main story.
 
-On a humanitarian mission in [Plot H71744AB-2](../locations/plot-h71744ab-2.md), the [17th IEG](../units/17th-ieg.md) crew nicknamed the [Iron Scorpions](../units/iron-scorpions.md) finds its Shadowrift exit deliberately blocked by strange boulders, later identified as [Darkstone](darkstone.md).
+On a humanitarian mission in [Plot H71744AB-2](../locations/plot-h71744ab-2.md), a crew from the [17th IEG](../units/17th-ieg.md), the Iron Scorpions, finds its Shadowrift exit deliberately blocked by strange boulders, later identified as [Darkstone](darkstone.md).
 
 1. [K-Tool](../characters/k-tool.md), the rookie dozer, tries first and fails. The veterans don't laugh; they admire the effort.
 2. [Aurek](../characters/aurek.md) tries next.

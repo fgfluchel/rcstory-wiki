@@ -38,7 +38,7 @@ His flaws: he quietly overloads himself rather than asking for help, he's cautio
 
 ## Role
 
-Aurek is a field loader and the lead of the Foundation Section. He is not a commander. He also serves as the foundation specialist in the [Valkyrie Detachment](../units/valkyrie-detachment.md), and he rode with the [Iron Scorpions](../units/iron-scorpions.md) in the [Shadowrift Barricade Incident](../phenomena/shadowrift-barricade-incident.md).
+Aurek is a field loader and the lead of the Foundation Section. He is not a commander. He also serves as the foundation specialist in the [Valkyrie Detachment](../units/valkyrie-detachment.md), and he was on the crew in the [Shadowrift Barricade Incident](../phenomena/shadowrift-barricade-incident.md).
 
 He's often described as a blue-collar paladin: lawful, steady and good. His file marks him as a "True Foundation Candidate."
 

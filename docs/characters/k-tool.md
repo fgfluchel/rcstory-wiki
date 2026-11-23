@@ -15,7 +15,7 @@ tags:
 |---|---|
 | Tagline | "Small blade. Big heart." |
 | Rank | Unranked (rookie) |
-| Unit | 17th IEG, Iron Scorpions |
+| Unit | [17th IEG](../units/17th-ieg.md) (the Iron Scorpions) |
 | Affiliation | Military |
 | Rig | Huina 1554 bulldozer |
 | Program | Project H candidate |
@@ -23,7 +23,7 @@ tags:
 
 </div>
 
-**K-Tool** is the smallest, youngest and most enthusiastic member of the [Iron Scorpions](../units/iron-scorpions.md) in the [17th IEG](../units/17th-ieg.md), and a candidate in [Project H](../phenomena/project-h.md). He's fresh from the CloneFarm, barely calibrated and nowhere near ready for real missions, but he treats every task (pushing leaves, escorting kittens, guarding the charging station) like a classified operation. He is the squad's emotional glue and its unofficial heart.
+**K-Tool** is the smallest, youngest and most enthusiastic member of the [17th IEG](../units/17th-ieg.md), the Iron Scorpions, and a candidate in [Project H](../phenomena/project-h.md). He's fresh from the CloneFarm, barely calibrated and nowhere near ready for real missions, but he treats every task (pushing leaves, escorting kittens, guarding the charging station) like a classified operation. He is the squad's emotional glue and its unofficial heart.
 
 ## Origin
 

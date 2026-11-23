@@ -10,5 +10,5 @@
 | [Mulch-Bed Evaluation](mulch-bed-evaluation.md) | The first sorting of fresh DNA Farm units |
 | [Rift Qualified](rift-qualified.md) | The status earned after TitanForge outfitting |
 | [Hydraulic Evolution](hydraulic-evolution.md) | The later-season arc where candidates gain hydraulic forms |
-| [Shadowrift Barricade Incident](shadowrift-barricade-incident.md) | The Year +1 flash-forward where the Iron Scorpions find the Rift blocked |
+| [Shadowrift Barricade Incident](shadowrift-barricade-incident.md) | The Year +1 flash-forward where a 17th IEG crew finds the Rift blocked |
 | [The Fracture](the-fracture.md) | The incident that created the Assimilators |

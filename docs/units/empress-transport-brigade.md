@@ -34,4 +34,4 @@ Its culture is immaculate rigs and elite drivers: the NASA contractors of this u
 - [Pug](../characters/pug.md) (Unit 1501G1), lead hauler
 - [Hangman](../characters/hangman.md) (1572CR1), crane
 
-Its military counterpart is the [3rd Expeditionary Transport Battalion "Iron Wolves"](3etb-iron-wolves.md).
+Its military counterpart is the [Humanitarian Logistics Detachment](humanitarian-logistics-detachment.md), the "Iron Wolves".
